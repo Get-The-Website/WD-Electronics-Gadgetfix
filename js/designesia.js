@@ -1,5 +1,5 @@
  /* --------------------------------------------------
-  * © Copyright 2024 - GadgetFix by Designesia
+  * © Copyright 2024 - GadgetAix by Designesia
   * --------------------------------------------------*/
 (function($) {
 	'use strict';
